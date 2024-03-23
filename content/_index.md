@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: abouthsdsd
     content:
-      title: Biography
+      title: О себе
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: Skills
@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Опыт
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -77,7 +77,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Достиженич'
+      title: 'Достижения '
       subtitle: 'Мои достижения'
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -114,11 +114,11 @@ sections:
           organization_url: 
           title: Призер олимпиады
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 'Предыдущие посты'
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -141,7 +141,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:

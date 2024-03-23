@@ -54,7 +54,7 @@ skills:
       - name: Информатика
         description: ''
         percent: 70
-        icon: fas
+        icon: IT
         icon_pack: fab
       - name: Математика
         description: ''
