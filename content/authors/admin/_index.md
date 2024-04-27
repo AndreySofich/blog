@@ -91,30 +91,26 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://web.telegram.org/a/#1171860695
+    label: Follow me on Telegram
+ 
+  - icon: vk
+    icon_pack: fab
+    link: https://vk.com/id283269145
+    label: Follow me on VK
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/AndreySofich
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/channel/UCznlopHphva6YdEA9a-99DQ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
